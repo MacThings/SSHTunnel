@@ -1,0 +1,2940 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "5.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"All Window In The First Plan\"; ObjectID = \"5\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Fenster im ersten Reiter"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Window In The First Plan"
+          }
+        }
+      }
+    },
+    "6Nd-Zf-2qX.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Stop\"; ObjectID = \"6Nd-Zf-2qX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop"
+          }
+        }
+      }
+    },
+    "19.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Window\"; ObjectID = \"19\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fenster"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Window"
+          }
+        }
+      }
+    },
+    "23.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Minimize\"; ObjectID = \"23\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Minimize"
+          }
+        }
+      }
+    },
+    "24.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Window\"; ObjectID = \"24\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fenster"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Window"
+          }
+        }
+      }
+    },
+    "29.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"AMainMenu\"; ObjectID = \"29\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "AMainMenu"
+          }
+        }
+      }
+    },
+    "30y-lD-AGA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Check for Updates...\"; ObjectID = \"30y-lD-AGA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf Updates prüfen..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check for Updates..."
+          }
+        }
+      }
+    },
+    "56.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"SSH Tunnel\"; ObjectID = \"56\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSH Tunnel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SSH Tunnel"
+          }
+        }
+      }
+    },
+    "57.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"SSH Tunnel\"; ObjectID = \"57\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSH Tunnel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SSH Tunnel"
+          }
+        }
+      }
+    },
+    "58.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"About SSHTunnel\"; ObjectID = \"58\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über SSHTunnel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "About SSHTunnel"
+          }
+        }
+      }
+    },
+    "103.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Help\"; ObjectID = \"103\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hilfe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Help"
+          }
+        }
+      }
+    },
+    "106.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Help\"; ObjectID = \"106\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hilfe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Help"
+          }
+        }
+      }
+    },
+    "111.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"No Help at this time\"; ObjectID = \"111\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Hilfe zu diesem Zeitpunkt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Help at this time"
+          }
+        }
+      }
+    },
+    "129.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Preferences…\"; ObjectID = \"129\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences…"
+          }
+        }
+      }
+    },
+    "130.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Services\"; ObjectID = \"130\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienste"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        }
+      }
+    },
+    "131.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Services\"; ObjectID = \"131\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienste"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        }
+      }
+    },
+    "134.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide SSHTunnel\"; ObjectID = \"134\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blende SSHTunnel aus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide SSHTunnel"
+          }
+        }
+      }
+    },
+    "136.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Quit SSHTunnel\"; ObjectID = \"136\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beende SSHTunnel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quit SSHTunnel"
+          }
+        }
+      }
+    },
+    "145.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide Others\"; ObjectID = \"145\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andere ausblenden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide Others"
+          }
+        }
+      }
+    },
+    "150.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show All\"; ObjectID = \"150\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle zeigen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show All"
+          }
+        }
+      }
+    },
+    "197.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Copy\"; ObjectID = \"197\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "198.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Select All\"; ObjectID = \"198\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles markieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select All"
+          }
+        }
+      }
+    },
+    "199.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Cut\"; ObjectID = \"199\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausscheiden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cut"
+          }
+        }
+      }
+    },
+    "202.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"202\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "203.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Paste\"; ObjectID = \"203\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einfügen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Paste"
+          }
+        }
+      }
+    },
+    "205.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Edit\"; ObjectID = \"205\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "207.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Undo\"; ObjectID = \"207\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rückgängig machen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Undo"
+          }
+        }
+      }
+    },
+    "215.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Redo\"; ObjectID = \"215\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erneut durchführen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Redo"
+          }
+        }
+      }
+    },
+    "217.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Edit\"; ObjectID = \"217\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "295.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"View\"; ObjectID = \"295\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ansicht"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View"
+          }
+        }
+      }
+    },
+    "296.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"View\"; ObjectID = \"296\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ansicht"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View"
+          }
+        }
+      }
+    },
+    "297.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide Toolbar\"; ObjectID = \"297\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blende Toolbar aus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide Toolbar"
+          }
+        }
+      }
+    },
+    "298.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show Toolbar\"; ObjectID = \"298\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige Toolbar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show Toolbar"
+          }
+        }
+      }
+    },
+    "371.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"SSHTunnel\"; ObjectID = \"371\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSHTunnel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SSHTunnel"
+          }
+        }
+      }
+    },
+    "641.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Sessions\"; ObjectID = \"641\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sessions"
+          }
+        }
+      }
+    },
+    "644.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Close Main Window\"; ObjectID = \"644\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließe Hauptfenster"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close Main Window"
+          }
+        }
+      }
+    },
+    "672.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Sessions\"; ObjectID = \"672\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sessions"
+          }
+        }
+      }
+    },
+    "673.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Sessions\"; ObjectID = \"673\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sessions"
+          }
+        }
+      }
+    },
+    "674.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add Outgoing Session\"; ObjectID = \"674\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge ausgehende Sitzung hinzu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Outgoing Session"
+          }
+        }
+      }
+    },
+    "678.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add Incoming Session\"; ObjectID = \"678\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge eingehende Sitzung hinzu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Incoming Session"
+          }
+        }
+      }
+    },
+    "932.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Servers\"; ObjectID = \"932\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Servers"
+          }
+        }
+      }
+    },
+    "932.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Servers\"; ObjectID = \"932\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Servers"
+          }
+        }
+      }
+    },
+    "974.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Connect to host :\"; ObjectID = \"974\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbinde zu Host:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connect to host :"
+          }
+        }
+      }
+    },
+    "975.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"By using service :\"; ObjectID = \"975\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit diesem Dienst:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "By using service :"
+          }
+        }
+      }
+    },
+    "1026.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"          Error\"; ObjectID = \"1026\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "          Error"
+          }
+        }
+      }
+    },
+    "1083.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Kill SSH\"; ObjectID = \"1083\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Töte SSH"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Kill SSH"
+          }
+        }
+      }
+    },
+    "1083.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Kill SSH\"; ObjectID = \"1083\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Töte SSH"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Kill SSH"
+          }
+        }
+      }
+    },
+    "1090.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Open All Sessions\"; ObjectID = \"1090\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne alle Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Open All Sessions"
+          }
+        }
+      }
+    },
+    "1092.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Close All Sessions\"; ObjectID = \"1092\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließe alle Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close All Sessions"
+          }
+        }
+      }
+    },
+    "1093.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Kill All SSH Processes\"; ObjectID = \"1093\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Töte alle SSH Prozesse"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Kill All SSH Processes"
+          }
+        }
+      }
+    },
+    "1150.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Sessions\"; ObjectID = \"1150\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sessions"
+          }
+        }
+      }
+    },
+    "1150.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Sessions\"; ObjectID = \"1150\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sessions"
+          }
+        }
+      }
+    },
+    "1162.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Server\"; ObjectID = \"1162\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Server"
+          }
+        }
+      }
+    },
+    "1171.placeholderString" : {
+      "comment" : "Class = \"NSSecureTextFieldCell\"; placeholderString = \"Password\"; ObjectID = \"1171\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "1172.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"User\"; ObjectID = \"1172\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "User"
+          }
+        }
+      }
+    },
+    "1173.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Password :\"; ObjectID = \"1173\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Password :"
+          }
+        }
+      }
+    },
+    "1174.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"User :\"; ObjectID = \"1174\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzer :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "User :"
+          }
+        }
+      }
+    },
+    "1176.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Server :\"; ObjectID = \"1176\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Server :"
+          }
+        }
+      }
+    },
+    "1177.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Port\"; ObjectID = \"1177\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Port"
+          }
+        }
+      }
+    },
+    "1195.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Tunnel configuration\"; ObjectID = \"1195\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tunnel-Konfiguration"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tunnel configuration"
+          }
+        }
+      }
+    },
+    "1263.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"SSH server\"; ObjectID = \"1263\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSH Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SSH server"
+          }
+        }
+      }
+    },
+    "1377.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Servers\"; ObjectID = \"1377\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Servers"
+          }
+        }
+      }
+    },
+    "1378.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"1378\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "1704.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use this server :\"; ObjectID = \"1704\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutze diesen Server :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use this server :"
+          }
+        }
+      }
+    },
+    "1721.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"No Name\"; ObjectID = \"1721\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Name"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Name"
+          }
+        }
+      }
+    },
+    "1795.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"OtherViews\"; ObjectID = \"1795\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OtherViews"
+          }
+        }
+      }
+    },
+    "1796.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Item 1\"; ObjectID = \"1796\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item 1"
+          }
+        }
+      }
+    },
+    "1859.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Server\"; ObjectID = \"1859\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Server"
+          }
+        }
+      }
+    },
+    "1878.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Servers\"; ObjectID = \"1878\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Servers"
+          }
+        }
+      }
+    },
+    "1879.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Account\"; ObjectID = \"1879\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Account"
+          }
+        }
+      }
+    },
+    "1891.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Servers\"; ObjectID = \"1891\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Servers"
+          }
+        }
+      }
+    },
+    "1894.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Servers\"; ObjectID = \"1894\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Servers"
+          }
+        }
+      }
+    },
+    "1895.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add Server\"; ObjectID = \"1895\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge Server hinzu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Server"
+          }
+        }
+      }
+    },
+    "1896.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete Server\"; ObjectID = \"1896\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lösche Server"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Server"
+          }
+        }
+      }
+    },
+    "2022.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Status\"; ObjectID = \"2022\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "2087.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use the service :\"; ObjectID = \"2087\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutze diesen Dienst :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use the service :"
+          }
+        }
+      }
+    },
+    "2242.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Service name\"; ObjectID = \"2242\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienstname"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Service name"
+          }
+        }
+      }
+    },
+    "2245.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"2245\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "2246.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Remotes ports\"; ObjectID = \"2246\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Ports"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remotes ports"
+          }
+        }
+      }
+    },
+    "2247.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"2247\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "2266.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Services\"; ObjectID = \"2266\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienste"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        }
+      }
+    },
+    "2266.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Services\"; ObjectID = \"2266\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienste"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        }
+      }
+    },
+    "2348.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"OtherViews\"; ObjectID = \"2348\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OtherViews"
+          }
+        }
+      }
+    },
+    "2349.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Item 3\"; ObjectID = \"2349\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item 3"
+          }
+        }
+      }
+    },
+    "2350.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Item 2\"; ObjectID = \"2350\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item 2"
+          }
+        }
+      }
+    },
+    "2351.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Item 1\"; ObjectID = \"2351\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item 1"
+          }
+        }
+      }
+    },
+    "2373.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"OtherViews\"; ObjectID = \"2373\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OtherViews"
+          }
+        }
+      }
+    },
+    "2374.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Item 3\"; ObjectID = \"2374\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item 3"
+          }
+        }
+      }
+    },
+    "2375.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Item 2\"; ObjectID = \"2375\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item 2"
+          }
+        }
+      }
+    },
+    "2376.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Item 1\"; ObjectID = \"2376\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item 1"
+          }
+        }
+      }
+    },
+    "2457.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Local ports\"; ObjectID = \"2457\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale Ports"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Local ports"
+          }
+        }
+      }
+    },
+    "2458.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"2458\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "2488.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"Preferences\"; ObjectID = \"2488\";",
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences"
+          }
+        }
+      }
+    },
+    "2512.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"For this tunnel :\"; ObjectID = \"2512\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für diesen Tunnel :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "For this tunnel :"
+          }
+        }
+      }
+    },
+    "2514.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Use this dynamic proxy port :\"; ObjectID = \"2514\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutze diesen dynamischen Proxy-Port :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use this dynamic proxy port :"
+          }
+        }
+      }
+    },
+    "2571.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"Local ports\"; ObjectID = \"2571\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale Ports"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Local ports"
+          }
+        }
+      }
+    },
+    "2573.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"Remote ports\"; ObjectID = \"2573\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Ports"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remote ports"
+          }
+        }
+      }
+    },
+    "2577.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"Name\"; ObjectID = \"2577\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "2610.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Start all sessions\"; ObjectID = \"2610\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte alle Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start all sessions"
+          }
+        }
+      }
+    },
+    "2614.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Stop all sessions\"; ObjectID = \"2614\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stoppe alle Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop all sessions"
+          }
+        }
+      }
+    },
+    "2616.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Remove selected session\"; ObjectID = \"2616\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entferne markierte Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove selected session"
+          }
+        }
+      }
+    },
+    "2617.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Start selected session\"; ObjectID = \"2617\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte markierte Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start selected session"
+          }
+        }
+      }
+    },
+    "2618.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Stop selected session\"; ObjectID = \"2618\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stoppe markierte Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop selected session"
+          }
+        }
+      }
+    },
+    "2626.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Create new outgoing session\"; ObjectID = \"2626\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erzeuge neue ausgehende Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create new outgoing session"
+          }
+        }
+      }
+    },
+    "2706.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Off\"; ObjectID = \"2706\";",
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Off"
+          }
+        }
+      }
+    },
+    "2709.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"On\"; ObjectID = \"2709\";",
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On"
+          }
+        }
+      }
+    },
+    "2716.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Preferences\"; ObjectID = \"2716\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences"
+          }
+        }
+      }
+    },
+    "2716.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Preferences\"; ObjectID = \"2716\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences"
+          }
+        }
+      }
+    },
+    "2720.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Reset the factory presets :\"; ObjectID = \"2720\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen zurücksetzen :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset the factory presets :"
+          }
+        }
+      }
+    },
+    "2722.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Reset Application\"; ObjectID = \"2722\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Programm zurücksetzen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset Application"
+          }
+        }
+      }
+    },
+    "2728.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use this transition :\"; ObjectID = \"2728\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutze diesen Übergang :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use this transition :"
+          }
+        }
+      }
+    },
+    "2731.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"OtherViews\"; ObjectID = \"2731\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OtherViews"
+          }
+        }
+      }
+    },
+    "2732.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Push\"; ObjectID = \"2732\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schieben"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Push"
+          }
+        }
+      }
+    },
+    "2733.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reveal\"; ObjectID = \"2733\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enthüllen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reveal"
+          }
+        }
+      }
+    },
+    "2734.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Fade\"; ObjectID = \"2734\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verblassen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fade"
+          }
+        }
+      }
+    },
+    "2741.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"OtherViews\"; ObjectID = \"2741\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OtherViews"
+          }
+        }
+      }
+    },
+    "2742.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From Top\"; ObjectID = \"2742\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von oben"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "From Top"
+          }
+        }
+      }
+    },
+    "2743.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From Bottom\"; ObjectID = \"2743\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von unten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "From Bottom"
+          }
+        }
+      }
+    },
+    "2744.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From Left\"; ObjectID = \"2744\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von links"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "From Left"
+          }
+        }
+      }
+    },
+    "2745.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Transition subtype :\"; ObjectID = \"2745\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übergangs Untertyp :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transition subtype :"
+          }
+        }
+      }
+    },
+    "2746.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"From Right\"; ObjectID = \"2746\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von rechts"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "From Right"
+          }
+        }
+      }
+    },
+    "2756.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"When views change :\"; ObjectID = \"2756\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn Ansicht sich ändert:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When views change :"
+          }
+        }
+      }
+    },
+    "2758.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Use transition\"; ObjectID = \"2758\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutze Übergang"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use transition"
+          }
+        }
+      }
+    },
+    "2796.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"When open session :\"; ObjectID = \"2796\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn Sitzung geöffnet wird:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When open session :"
+          }
+        }
+      }
+    },
+    "2797.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Force SSH version 2\"; ObjectID = \"2797\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erzwinge SSH Version 2"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Force SSH version 2"
+          }
+        }
+      }
+    },
+    "2830.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Move In\"; ObjectID = \"2830\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewege herein"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Move In"
+          }
+        }
+      }
+    },
+    "2856.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Redirect traffic trough this local port :\"; ObjectID = \"2856\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leite Traffic durch lokalen Port:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Redirect traffic trough this local port :"
+          }
+        }
+      }
+    },
+    "2910.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"sessions\"; ObjectID = \"2910\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "sessions"
+          }
+        }
+      }
+    },
+    "2913.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"2913\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "2970.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Create new incoming session\"; ObjectID = \"2970\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstelle neue eingehende Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create new incoming session"
+          }
+        }
+      }
+    },
+    "2971.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Create new proxy session\"; ObjectID = \"2971\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstelle neue Proxy Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create new proxy session"
+          }
+        }
+      }
+    },
+    "3030.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"New session\"; ObjectID = \"3030\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New session"
+          }
+        }
+      }
+    },
+    "3032.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use this proxy port :\"; ObjectID = \"3032\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutze Proxy-Port :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use this proxy port :"
+          }
+        }
+      }
+    },
+    "3048.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"New outgoing session\"; ObjectID = \"3048\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue herausgehende Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New outgoing session"
+          }
+        }
+      }
+    },
+    "3050.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"New incoming session\"; ObjectID = \"3050\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue hereinkommende Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New incoming session"
+          }
+        }
+      }
+    },
+    "3052.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"New proxy session\"; ObjectID = \"3052\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Proxy Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New proxy session"
+          }
+        }
+      }
+    },
+    "3113.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Proxies sessions\"; ObjectID = \"3113\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proxysitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Proxies sessions"
+          }
+        }
+      }
+    },
+    "3117.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use this kind of sessions if you want to redirect all the network traffic of your computer. By doing this, you will be able to access websites that are filtered by the firewall rules\"; ObjectID = \"3117\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwenden Sie diese Art von Sitzungen, wenn Sie den gesamten Netzwerkverkehr Ihres Computers umleiten möchten. Auf diese Weise können Sie auf Websites zugreifen, die durch die Firewall-Regeln gefiltert werden."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use this kind of sessions if you want to redirect all the network traffic of your computer. By doing this, you will be able to access websites that are filtered by the firewall rules"
+          }
+        }
+      }
+    },
+    "3118.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Incoming sessions\"; ObjectID = \"3118\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hereinkommende Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Incoming sessions"
+          }
+        }
+      }
+    },
+    "3121.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use this kind of session if you want to authorize extern people to connect to your computer (to share files by using FTP, or AFP).\"; ObjectID = \"3121\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwenden Sie diese Art von Sitzung, wenn Sie externen Personen erlauben wollen, sich mit Ihrem Computer zu verbinden (um Dateien über FTP oder AFP auszutauschen)."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use this kind of session if you want to authorize extern people to connect to your computer (to share files by using FTP, or AFP)."
+          }
+        }
+      }
+    },
+    "3123.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Outgoing sessions\"; ObjectID = \"3123\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herausgehende Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Outgoing sessions"
+          }
+        }
+      }
+    },
+    "3126.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Use this kind of session if you want to connect to a remote single host (using telnet, or IMAP for example).\"; ObjectID = \"3126\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwenden Sie diese Art von Sitzung, wenn Sie eine Verbindung zu einem einzelnen entfernten Host herstellen möchten (z. B. über Telnet oder IMAP)."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use this kind of session if you want to connect to a remote single host (using telnet, or IMAP for example)."
+          }
+        }
+      }
+    },
+    "3156.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Preferences\"; ObjectID = \"3156\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences"
+          }
+        }
+      }
+    },
+    "3158.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Main Window\"; ObjectID = \"3158\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hauptfenster"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Main Window"
+          }
+        }
+      }
+    },
+    "3162.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Quit SSHTunnel\"; ObjectID = \"3162\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beende SSHTunnel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quit SSHTunnel"
+          }
+        }
+      }
+    },
+    "3163.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Start All Sessions\"; ObjectID = \"3163\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte alle Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start All Sessions"
+          }
+        }
+      }
+    },
+    "3169.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Stop All Sessions\"; ObjectID = \"3169\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stoppe alle Sitzungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop All Sessions"
+          }
+        }
+      }
+    },
+    "3189.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Display icon :\"; ObjectID = \"3189\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige Icon:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Display icon :"
+          }
+        }
+      }
+    },
+    "3191.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"In the Dock\"; ObjectID = \"3191\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Dock"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "In the Dock"
+          }
+        }
+      }
+    },
+    "3193.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"In the status bar\"; ObjectID = \"3193\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In der Statusbar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "In the status bar"
+          }
+        }
+      }
+    },
+    "3208.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Start this session automatically\"; ObjectID = \"3208\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte diese Sitzung automatisch"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start this session automatically"
+          }
+        }
+      }
+    },
+    "3223.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Open proxy on this service\"; ObjectID = \"3223\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne Proxy für diesen Service"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Open proxy on this service"
+          }
+        }
+      }
+    },
+    "3235.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Add Global Proxy Session\"; ObjectID = \"3235\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge globale Proxy Sitzung hinzu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Global Proxy Session"
+          }
+        }
+      }
+    },
+    "3237.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete Selected Session\"; ObjectID = \"3237\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lösche markierte Sitzung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Selected Session"
+          }
+        }
+      }
+    },
+    "3244.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"OtherViews\"; ObjectID = \"3244\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OtherViews"
+          }
+        }
+      }
+    },
+    "3311.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Apply\"; ObjectID = \"3311\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anwenden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "3315.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Apply this server to all sessions :\"; ObjectID = \"3315\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenne diesen Server auf alle Sitzungen an"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply this server to all sessions :"
+          }
+        }
+      }
+    },
+    "3318.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Port :\"; ObjectID = \"3318\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port :"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Port :"
+          }
+        }
+      }
+    },
+    "C9e-uD-DYw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Check for Updates...\"; ObjectID = \"C9e-uD-DYw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf Updates prüfen..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check for Updates..."
+          }
+        }
+      }
+    },
+    "ciM-fW-X47.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Start\"; ObjectID = \"ciM-fW-X47\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start"
+          }
+        }
+      }
+    },
+    "hTa-vs-O8J.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Disable Quit confirmation :\"; ObjectID = \"hTa-vs-O8J\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deaktiviere \"Beenden\" Bestätigung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disable Quit confirmation :"
+          }
+        }
+      }
+    },
+    "Ldt-yY-hDl.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Hide Mainwindow at Start :\"; ObjectID = \"Ldt-yY-hDl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blende Hauptfenster nach dem Start aus: "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide Mainwindow at Start :"
+          }
+        }
+      }
+    },
+    "xf3-25-58D.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Leave Password Field empty if you are using SSH Key in ~/.ssh Directory.\"; ObjectID = \"xf3-25-58D\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lasse das Passwortfeld leer, wenn Du einen SSH-Schlüssel im Verzeichnis ~/.ssh verwendest."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Leave Password Field empty if you are using SSH Key in ~/.ssh Directory."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
